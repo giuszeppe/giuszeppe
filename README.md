@@ -1,4 +1,4 @@
-Hi, I'm [Your Name]
+Hi, I'm Giuseppe
 About Me
 
 I'm a passionate junior backend developer with a strong interest in functional programming. I love exploring new technologies and constantly pushing the boundaries of what's possible in the world of software development. I'm here to share my journey and discoveries with you.
