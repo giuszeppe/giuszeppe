@@ -17,11 +17,5 @@ I'm here to share my journey and discoveries with you.
     IT-Notes: I'll be sharing every IT-related notes I take during my personal studies and during university lectures.
 
     Projects: I'll showcase personal projects and (I hope so) open-source contributions. You can expect a mix of practical applications and experimental projects that reflect my interests and skills.
-
-### Connect With Me 😊
-
-I love connecting with developers and learning from others in the community. Feel free to reach out to me through the following channels:
-
-    LinkedIn: https://www.linkedin.com/in/giuszeppe/
-
+    
 # Goodbye! 🚀
